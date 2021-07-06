@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535295667072",
+    "project_id": "messageboard-320a7",
+    "storage_bucket": "messageboard-320a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535295667072:android:80ab1731ef62742f6eef65",
+        "android_client_info": {
+          "package_name": "com.example.messageboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535295667072-4q6g7ekrtkfo8udh875t97skcs16031k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW0TXOejhk05Np10qsKLilZ6c5VCg6GSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535295667072-4q6g7ekrtkfo8udh875t97skcs16031k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
